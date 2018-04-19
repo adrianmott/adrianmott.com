@@ -2,12 +2,17 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script> -->
-  {%- seo -%}
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  {%- feed_meta -%}
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include google-analytics.html -%}
-  {%- endif -%}
+  <title>{{ page.title }}</title>
+  <meta name="generator" content="Jekyll v3.7.2" />
+  <meta property="og:title" content="Adrian Mott - Technical, Marketing and Investing Advice" />
+  <meta property="og:locale" content="en_US" />
+  <meta name="description" content="Welcome to my blog. I write about technically driven marketing and operations, investing and other stuff like travel and parenting" />
+  <meta property="og:description" content="Welcome to my blog. I write about technically driven marketing and operations, investing and other stuff like travel and parenting" />
+  <link rel="canonical" href="https://adrianmott.com" />
+  <meta property="og:url" content="https://adrianmott.com/" />
+  <meta property="og:site_name" content="Adrian Mott" />
+  {%- include google-analytics.html -%}
 </head>
