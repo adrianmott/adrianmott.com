@@ -15,11 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: Adrian Mott
 description: >- # this means to ignore newlines until "baseurl:"
-  My name is Adrian, welcome to my personal site. I am an entrepreneur and startup guy based in the Boston area. I currently run marketing for The Wanderlust Group in Cambridge, MA. Our current brands include <a href="https://dockwa.com">Dockwa</a> and <a href="https://marinas.com">Marinas.com</a>.
+  Hi, my name is Adrian and welcome to my blog. I am a technical marketer and startup guy based in the Boston area. I currently run marketing for <a href="https://dockwa.com">Dockwa</a> and <a href="https://marinas.com">Marinas.com</a> in Cambridge, MA.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: adrianmott
-github_username:  adrianmott
+# github_username:  adrianmott
 
 # Build settings
 markdown: kramdown
