@@ -1,4 +1,9 @@
-What to do in Kauai - Part 1: Hiking, Surfing Beaches and Lunch Spots
+---
+layout: post
+title: "Kauai's Best Hiking, Beaches and Food"
+---
+What to do in Kauai: Hiking, Beaches and Lunch Spots
+
 I have to say that I am extremely lucky …. privileged, blessed, amazed, you name it… to have come into a situation where I have family that has found its way to the island of Kauai.  I have had the chance to visit the island on numerous occasions, in fact this past trip that Aimee and I took over Christmas and New Years 2012 makes it my 6th trip to the Garden Island.  So you see, I do not exaggerate when I say that I’m a lucky shit :)  
 
 Not only have I had the chance to visit, but I’ve also had the chance to see the island under the direction of my family: my Aunt and Uncle who have been living on the South Shore for 30 or so years now - locals brah.  But also now my parents who have been locals for a few years now as well.  Here are some things that I’ve learned from them and found out on my own about the island.  There are some of the things that I’ve totally loved doing when there, hope you find them useful in your adventures.
